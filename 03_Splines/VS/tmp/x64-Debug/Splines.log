@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\Yo\Universidad\a\Eramus\03_Splines\main.cpp(77,14): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Yo\Universidad\a\Eramus\03_Splines\main.cpp(84,14): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  Splines.vcxproj -> D:\Yo\Universidad\a\Eramus\03_Splines\VS\bin\x64-Debug\Splines.exe
+  No se encuentra el archivo: *.bmp
+  0 archivo(s) copiado(s)
+  No se encuentra el archivo: *.glsl
+  0 archivo(s) copiado(s)
+  No se encuentra el archivo: *.bmp
+  0 archivo(s) copiado(s)
+  No se encuentra el archivo: *.glsl
+  0 archivo(s) copiado(s)
